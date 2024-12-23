@@ -18,8 +18,8 @@ header {
   display: flex;
   justify-content: space-between;
   align-items: center;
-  padding: 1.5rem 2rem;
-  background: linear-gradient(90deg, #8B4513, #5A2D09);
+  padding: 1rem 2rem;
+  background: linear-gradient(90deg, #6d2d00, #200d00);
   color: white;
   box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
 }
@@ -69,7 +69,7 @@ header .logo h1 {
 
 .btn-reserve, .btn-order {
   background: linear-gradient(90deg, #FFD700, #FF8C00);
-  color: #8B4513;
+  color: #ffffff;
   border: none;
   padding: 0.8rem 1.2rem;
   border-radius: 25px;
@@ -91,7 +91,7 @@ header .logo h1 {
   justify-content: space-between;
   align-items: center;
   padding: 4rem;
-  background: linear-gradient(45deg, #8B4513, #D2B48C);
+  background: linear-gradient(90deg, #200d00, #793100);
   color: white;
   clip-path: polygon(0 0, 100% 0, 100% 85%, 0 100%);
 }
@@ -112,6 +112,7 @@ header .logo h1 {
   background: linear-gradient(90deg, #FFD700, #FF4500);
   color: white;
   border: none;
+  font-size:15px ;
   padding: 1rem 2rem;
   border-radius: 30px;
   font-weight: bold;
@@ -182,7 +183,7 @@ header .logo h1 {
 .testimonials {
   text-align: center;
   padding: 3rem;
-  background: linear-gradient(90deg, #d87a37, #ff9b59);
+  background: linear-gradient(90deg, #6d2d00, #200d00);
   color: white;
 }
 
